@@ -9,13 +9,6 @@
     flex-wrap: wrap;
 }
 
-.section {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 a {
     text-decoration: none;
 }
