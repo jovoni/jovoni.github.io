@@ -1,47 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Vollkorn&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-body {
-    background-color: #ECECEC;
-}
-
-a {
-    text-decoration: none;
-}
-
-.hvr-trim {
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: perspective(1px) translateZ(0);
-  transform: perspective(1px) translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-  position: relative;
-}
-
-.hvr-trim:before {
-  content: '';
-  position: absolute;
-  border: #2E3A3E solid 2px;
-  top: 8px;
-  left: 8px;
-  right: 8px;
-  bottom: 8px;
-  opacity: 0;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-property: opacity;
-  transition-property: opacity;
-}
-.hvr-trim:hover:before, .hvr-trim:focus:before, .hvr-trim:active:before {
-  opacity: 1;
 }
 
 .page {
@@ -51,54 +11,45 @@ a {
 
 .section {
     width: 100%;
-    height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
-
-    color: #2E3A3E;
-    font-family: Six Caps, sans-serif;
-    font-size: 78px;
-    font-style: normal;
-    font-weight: 400;
-    letter-spacing: 0.1em;
-    line-height: 78px;
-    text-transform: none;
 }
 
-.header {
-    background-color: #ECECEC;
-    height: 150px;
-
-    font-size: 120px;
-    line-height: 120px;
+a {
+    text-decoration: none;
 }
 
-.feature-1 {
-    background-color: #F3D250;   
+.navbar {
+    background-color: #0F044C;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.feature-2 {
-    background-color: #F78888;
+.navbar a {
+    color: #EEEEEE;
 }
 
-.feature-3 {
-    background-color: #90CCF4;
+.navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
 }
 
-.extra {
-    background-color: #ECECEC;
-    height: 100px;
-
-    font-size: 35px;
-    line-height: 35px;
+.navbar .brand {
+    display: block;
+    padding: 0 24px;
+    font-size: 24px;
 }
 
-@media only screen and (min-width:1201px) {
-    .feature-1,
-    .feature-2,
-    .feature-3 {
-        width: 33.3%;
-        height: 800px;
-    }
+.navbar ul li a {
+    padding: 24px;
+    display: block;
+}
+
+.navbar ul a:hover, .navbar ul a:focus {
+    background-color: #141E61;
 }
