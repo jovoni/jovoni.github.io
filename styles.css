@@ -15,6 +15,7 @@ a {
 
 .navbar {
     background-color: #0F044C;
+    font-family: "Forum", cursive;
     display: flex;
     align-items: center;
     justify-content: space-between;
