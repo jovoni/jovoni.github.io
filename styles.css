@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 a {
     text-decoration: none;
 }
@@ -32,7 +31,7 @@ a {
 .navbar .brand {
     display: block;
     padding: 0 12px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .navbar ul li a {
@@ -43,4 +42,9 @@ a {
 
 .navbar ul a:hover, .navbar ul a:focus {
     background-color: #141E61;
+}
+
+.content {
+    background-color: #EEEEEE;
+    height: 600px;
 }
