@@ -8,9 +8,15 @@ a {
     text-decoration: none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .navbar {
     overflow: hidden;
     position: fixed;
+    top: 0;
+    width: 100%;
     background-color: #F3F3F3;
     font-family: "Forum", cursive;
     display: flex;
