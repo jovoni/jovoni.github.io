@@ -9,6 +9,8 @@ a {
 }
 
 .navbar {
+    overflow: hidden;
+    position: fixed;
     background-color: #F3F3F3;
     font-family: "Forum", cursive;
     display: flex;
@@ -51,6 +53,46 @@ a {
     height: 300px;
 }
 
+.content ul li a {
+    padding: 6px;
+    display: block;
+    font-size: 14px;
+}
+
 .about {
-    height: 220px;
+    height: auto;
+}
+
+.food {
+    height: auto;
+}
+
+.drink {
+    height: auto;
+}
+
+.eventi {
+    height: auto;
+}
+
+.banner {
+    background-color: #F3F3F3;
+    font-family: "Forum", cursive;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.banner a {
+    color: #1B1B1B;
+}
+
+.banner ul li a {
+    padding: 12px;
+    display: block;
+    font-size: 16px;
+}
+
+.banner ul a:hover, .banner ul a:focus {
+    background-color: #E1E1E1;
 }
