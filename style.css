@@ -166,7 +166,7 @@ section .subtitle{
     font-size: 27px;
 }
 .home .home-content .text-2{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
     margin-left: 0px;
     font-family: 'Montserrat', sans-serif;
@@ -195,5 +195,5 @@ section .subtitle{
 
 .about .about-content .text{
     width: 100%;
-    font-size: 16px;
+    font-size: 18px;
 }
