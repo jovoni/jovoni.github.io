@@ -234,6 +234,7 @@ section .subtitle {
 
 .books {
     background-color: var(--bianco2);
+    width: 100%;
 }
 .library {
     display: grid;
