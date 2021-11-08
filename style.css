@@ -278,9 +278,10 @@ section .subtitle {
 }
 .locandine{
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: repeat(3, 1fr);
     gap: 20px 10px;
     grid-auto-flow: row;
+    overflow: hidden;
 }
 .movie{
     display: block;
@@ -317,10 +318,11 @@ section .subtitle {
 }
 .songs{
     display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: (2, 1fr);
     gap: 10px 10px;
     grid-auto-flow: row;
+    overflow: hidden;
 }
 .song{
     display: block;
