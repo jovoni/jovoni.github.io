@@ -67,7 +67,7 @@ section .subtitle{
     transition: all 0.3s ease;
 }
 .navbar.sticky{
-    background: var(--nero);
+    background: var(--bianco2);
 }
 .navbar .max-width{
     display: flex;
@@ -86,7 +86,7 @@ section .subtitle{
     transition: all 0.3s ease;
 }
 .navbar .logo a{
-    color: var(--bianco2);
+    color: var(--nero);
     font-size: 35px;
     font-weight: 700;
 }
@@ -99,7 +99,7 @@ section .subtitle{
 }
 .navbar .menu.active{
     left: 0;
-    background-color: var(--nero);
+    background-color: var(--bianco2);
 }
 .navbar .menu li{
     list-style: none;
@@ -107,7 +107,7 @@ section .subtitle{
 }
 .navbar .menu li a{
     display: inline-block;
-    color: var(--bianco2);
+    color: var(--nero);
     font-size: 25px;
     font-weight: 500;
     margin-left: 25px;
@@ -117,7 +117,7 @@ section .subtitle{
 
 /* menu btn styling */ 
 .menu-btn{
-    color: var(--bianco2);
+    color: var(--nero);
     font-size: 23px;
     cursor: pointer;
     display: block;
@@ -154,7 +154,8 @@ section .subtitle{
 /* home */
 .home{
     display: flex;
-    background: url(images/darksea.jpg) no-repeat center;
+    background: url("images/whitewall.jpg") center no-repeat;
+    background-size: cover;
     height: 100vh;
     color: var(--bianco2);
     min-height: 300px;
@@ -166,16 +167,19 @@ section .subtitle{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    color: var(--nero);
 }
 .home .home-content .text-2{
     font-size: 40px;
     font-weight: 600;
     margin-left: 0px;
     font-family: 'Montserrat', sans-serif;
+    color: var(--nero);
 }
 .home .home-content .text-3{
     font-size: 27px;
     margin: 5px 0;
+    color: var(--nero);
 }
 .home .home-content .text-3 span{
     color: var(--colore);
@@ -208,53 +212,4 @@ section .subtitle{
 
 .banner2 {
     background-color: var(--bianco1);
-}
-
-.banner-content{
-    font-size: 16px;
-}
-
-.banner1 .carousel .card{
-    background: var(--color6);
-    border-radius: 6px;
-    padding: 25px 35px;
-    text-align: center;
-    transition: all 0.3s ease;
-}
-.banner1 .carousel .card .box{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.3s ease;
-}
-.banner1 .carousel .card .text{
-    font-size: 25px;
-    font-weight: 500;
-    margin: 10px 0 7px 0;
-}
-.banner1 .carousel .card img{
-    height: 150px;
-    width: 150px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 5px solid var(--color1);
-    transition: all 0.3s ease;
-}
-.owl-dots{
-    text-align: center;
-    margin-top: 20px;
-}
-.owl-dot{
-    height: 13px;
-    width: 13px;
-    margin: 0 5px;
-    outline: none!important;
-    border-radius: 50%;
-    border: 2px solid var(--color1)!important;
-    transition: all 0.3s ease;
-}
-.owl-dot.active{
-    width: 35px;
-    border-radius: 14px;
 }
