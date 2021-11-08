@@ -24,7 +24,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["un uomo", "un papà", "italiano", "cristiano"],
+        strings: ["un armadillo", "italiano", "cristiano"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
