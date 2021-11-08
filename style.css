@@ -30,12 +30,17 @@ body {
     color: var(--nero);
 }
 
-.about, .books, footer {
+.about, .books, .movies, .music {
     font-family: 'Work Sans', sans-serif;
     color: var(--nero);
 }
 
-.about .about-content, .banner1, .banner2, .banner-content {
+footer{
+    font-family: 'Work Sans', sans-serif;
+    color: var(--bianco1);
+}
+
+.about .about-content {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -160,7 +165,6 @@ section .subtitle {
     pointer-events: none;
     transition: all 0.3s ease;
 }
-
 .scroll-up-btn.show {
     bottom: 30px;
     opacity: 1;
@@ -231,7 +235,6 @@ section .subtitle {
 .books {
     background-color: var(--bianco2);
 }
-
 .library {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -239,21 +242,18 @@ section .subtitle {
     gap: 10px 10px;
     grid-auto-flow: row;
 }
-
 .book{
     display: block;
     font-size: 25px;
     align-items: center;
     justify-content: center;
 }
-
 .book img{
     width: 100%;
     height: 200px;
     border-radius: 6px;
     object-fit: cover;
 }
-
 .book a{
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
@@ -261,14 +261,105 @@ section .subtitle {
     text-decoration: none;
     color: var(--nero);
 }
-
 .book a::after{
     content: "\a";
     white-space: pre;
 }
-
 .book span {
     font-size: 16px;
     font-family: 'Work Sans', sans-serif;
     font-weight: 300;
+}
+
+/* movies grid */
+.movies{
+    background-color: var(--bianco1);
+}
+.locandine{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 20px 10px;
+    grid-auto-flow: row;
+}
+.movie{
+    display: block;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+}
+.movie img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.movie a{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--nero);
+}
+.movie a::after{
+    content: "\a";
+    white-space: pre;
+}
+.movie span {
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+}
+
+/* music grid */
+.music{
+    background-color: var(--bianco2);
+}
+.songs{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 10px;
+    grid-auto-flow: row;
+}
+.song{
+    display: block;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+}
+.song img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.song a{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--nero);
+}
+.song a::after{
+    content: "\a";
+    white-space: pre;
+}
+.song span {
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+}
+
+/* footer */
+
+/* footer section styling */
+footer{
+    background: var(--nero);
+    padding: 20px 23px;
+}
+footer span a{
+    color: var(--colore);
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
 }
