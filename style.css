@@ -28,8 +28,11 @@ section {
     padding: 30px 0;
 }
 
+html,
 body {
     color: var(--nero);
+    width: 100%;
+    overflow-x: hidden;
 }
 
 .about, .books, .movies, .music {
