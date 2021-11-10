@@ -407,12 +407,13 @@ footer span a:hover {
     font-size: 12px;
     font-weight: 200;
     letter-spacing: 1px;
-    padding: 13px 50px 13px;
+    padding: 13px 30px 13px;
     outline: 0;
     border: 1px solid var(--nero);
     cursor: pointer;
     background-color: rgba(0, 0, 0, 0);
     margin: auto;
+    color: var(--nero);
 }
 
 .arrow {
@@ -420,6 +421,7 @@ footer span a:hover {
     border-width: 0 1px 1px 0;
     display: inline-block;
     padding: 3px;
+    margin-left: 5px;
 }
 
 .right {
