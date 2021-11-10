@@ -20,6 +20,14 @@
 .max-width {
     padding: 0 25px;
     margin: auto;
+    text-align: center;
+}
+
+.max-width-top {
+    width: 100%;
+    padding: 0 25px;
+    margin: auto;
+    text-align: left;
 }
 
 /* all similar content code */
@@ -396,20 +404,20 @@ footer span a:hover {
 /* button */
 
 .button {
-    font-size: 20px;
+    font-size: 12px;
     font-weight: 200;
     letter-spacing: 1px;
     padding: 13px 50px 13px;
     outline: 0;
-    border: 1px solid black;
+    border: 1px solid var(--nero);
     cursor: pointer;
-    position: relative;
     background-color: rgba(0, 0, 0, 0);
+    margin: auto;
 }
 
 .arrow {
-    border: solid black;
-    border-width: 0 3px 3px 0;
+    border: solid var(--nero);
+    border-width: 0 1px 1px 0;
     display: inline-block;
     padding: 3px;
 }
@@ -418,3 +426,79 @@ footer span a:hover {
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
 }
+
+/* top */
+
+.top {
+    display: flex;
+    background: var(--bianco1);
+    height: 50vh;
+    min-height: 500px;
+    color: var(--bianco2);
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+}
+
+.top .top-content {
+    padding-top: 50px;
+}
+
+.top .top-content .text-1 {
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--nero);
+}
+
+.top .top-content .text-2 {
+    padding-top: 20px;
+    font-size: 16px;
+    color: var(--nero);
+    font-weight: 200;
+}
+
+.top .top-content .text-2 span {
+    font-size: 16px;
+    background-color: yellow;
+    font-weight: 300;
+}
+
+
+/* banner */
+
+/* banner section styling */
+
+.banner{
+    display: flex;
+    background-color: var(--bianco2);
+    height: 25vh;
+}
+
+.banner .max-width{
+    margin: auto 0 auto 190px;
+}
+
+.banner .banner-content .title {
+    font-size: 18px;
+    color: var(--bianco3);
+    font-weight: 600;
+    padding-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--grigio1);
+}
+
+.banner .banner-content li{
+    font-size: 25px;
+    color: var(--grigio2);
+    list-style: none;
+    padding-bottom: 10px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.banner .banner-content li a{
+    color: var(--nero);
+    font-weight: 600;
+    text-decoration: underline;
+    font-family: 'Montserrat', sans-serif;
+}
+
