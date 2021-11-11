@@ -473,20 +473,36 @@ footer span a:hover {
 .banner{
     display: flex;
     background-color: var(--bianco2);
-    height: 25vh;
+    border: salmon solid 1px;
 }
 
 .banner .max-width{
     margin: auto 0 auto 190px;
 }
 
+.current-item{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px 20px;
+    grid-auto-flow: row;
+}
+
+.current-item .info{
+    color: coral;
+}
+
+.current-item img{
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+}
+
 .banner .banner-content .title {
     font-size: 18px;
-    color: var(--bianco3);
     font-weight: 600;
     padding-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
-    color: var(--grigio1);
+    color: var(--colore);
 }
 
 .banner .banner-content li{
