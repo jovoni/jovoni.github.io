@@ -261,7 +261,7 @@ section .subtitle {
 }
 
 .book {
-    display: block;
+    grid-template-rows: 3;
     align-items: center;
     justify-content: center;
 }
@@ -270,7 +270,7 @@ section .subtitle {
     width: 100%;
     height: 200px;
     border-radius: 6px;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .book a {
@@ -308,6 +308,7 @@ section .subtitle {
 
 .movie {
     display: block;
+    gap: 5px;
     align-items: center;
     justify-content: center;
 }
@@ -353,7 +354,8 @@ section .subtitle {
 }
 
 .song {
-    display: block;
+    display: grid;
+    grid-template-rows: 3;
     align-items: center;
     justify-content: center;
 }
@@ -362,6 +364,7 @@ section .subtitle {
     width: 100%;
     object-fit: cover;
     border-radius: 50%;
+    max-width: 300px;
 }
 
 .song a {
