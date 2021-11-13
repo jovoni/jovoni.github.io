@@ -254,7 +254,6 @@ section .subtitle {
 .library {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
     gap: 10px 10px;
     grid-auto-flow: column;
     flex-wrap: wrap;
