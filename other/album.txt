@@ -1,0 +1,9 @@
+<div class="item"> <a href="https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9?si=WJr2drm5RQa1TOOoyeqiSg">21</a> <span>di Adele</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p?si=fSIaXf9lQxmlO2QsArMNPQ">Spazio</a> <span>di Ariete</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec?si=rjXGkvGmSgiypS2aVgI0eg">Blu Celeste</a> <span>di Blanco</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/5YjTGzxiZGEpXOjTyrptQa?si=XxwAkz9hSsyPDrEGQTvtPQ">Pubblicità</a> <span>di Cimini</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/3Y4qJnPihpHfdK3rre9GFA?si=L4CJlcXIQhuQS5exOGKULA">Ok</a> <span>di Gazzelle</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR?si=oe-UvG2IS3GHmc-Y0svAJw">Montero</a> <span>di Lil Nas X</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr?si=M76QFi8JRJSIoEz3JLPl-g">Madame</a> <span>di Madame</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/50ZFAeGxaNWSMjHfQOkzJK?si=_B9ZNs4YSrGcxm5KAKZPmw">Caravelle</a> <span>di Polo & Pan</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/3G0VzNCDRVSQxl3M0HaKwS?si=WIxDiu9iTC-PkHkLmN8Ahg">Enter Sandwich</a> <span>di Pop X</span> </div>

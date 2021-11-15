@@ -516,6 +516,12 @@ footer span a:hover {
     border-radius: 6px;
 }
 
+.current-item img.circle{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
 .banner .banner-content .title {
     font-size: 18px;
     font-weight: 600;

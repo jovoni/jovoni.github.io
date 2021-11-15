@@ -11,9 +11,12 @@ def write_book(titolo, autore, link, is_special):
 
 if __name__ == "__main__":
     
-    df = pd.read_csv("letture.csv")
+    csv = sys.argv[1]
+    file_name = sys.argv[2]
     
-    with open("books.txt", "w") as f:
+    df = pd.read_csv(csv)
+    
+    with open(file_name, "w") as f:
         for i in range(len(df)):
             print(i)
             titolo = (df["titolo"][i])
