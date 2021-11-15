@@ -22,7 +22,6 @@
     margin: auto;
     text-align: center;
     display: grid;
-    border: 1px solid cornflowerblue;
 }
 
 .max-width-top {
@@ -245,61 +244,31 @@ section .subtitle {
     font-size: 14px;
 }
 
-/* gallery */
+/* gallery books */
 
 .gallery-wrapper {
     display: flex;
 }
 
 .gallery{
-    border: 1px solid coral;
     padding: 0 6px;
     float: left;
     width: 49.99999%;
-    display: g;
 }
 
 .gallery img {
-    width: 49.99999%;
-    height: auto;
+    width: 74.9999%;
+    height: 150px;
     margin: 6px 0;
-}
-
-.gallery .desc {
-    padding: 15px;
-    text-align: center;
-}
-
-
-/* books grid */
-
-.books {
-    background-color: var(--bianco2);
-}
-
-.library {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    gap: 0px 0px;
-    grid-auto-flow: row;
-}
-
-.book {
-    display: block;
-    grid-template-rows: 3;
-    align-items: center;
-    justify-content: center;
-}
-
-.book img {
-    width: 100%;
-    height: 200px;
-    border-radius: 6px;
     object-fit: contain;
 }
 
-.book a {
+.gallery .desc {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.gallery .desc a {
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -307,46 +276,39 @@ section .subtitle {
     color: var(--nero);
 }
 
-.book a::after {
+.gallery a::after {
     content: "\a";
     white-space: pre;
 }
 
-.book span {
+.gallery .desc span {
     font-size: 14px;
     font-family: 'Work Sans', sans-serif;
     font-weight: 300;
 }
 
-/* movies grid */
 
-.movies {
-    background-color: var(--bianco1);
+/* gallery movies */
+
+.locandine{
+    padding: 0 6px;
+    float: left;
+    width: 99.99999%;
 }
 
-.locandine {
-    display: grid;
-    grid-template-rows: repeat(3, 280px);
-    gap: 20px 10px;
-    grid-auto-flow: column;
-    flex-wrap: wrap;
-}
-
-.movie {
-    display: block;
-    gap: 5px;
-    align-items: center;
-    justify-content: center;
-}
-
-.movie img {
-    width: 100%;
-    height: 250px;
-    object-fit: cover;
+.locandine img {
+    width: 99.99999%;
+    height: auto;
+    margin: 6px 0;
     border-radius: 6px;
 }
 
-.movie a {
+.locandine .desc {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.locandine .desc a {
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -354,46 +316,48 @@ section .subtitle {
     color: var(--nero);
 }
 
-.movie a::after {
+.locandine a::after {
     content: "\a";
     white-space: pre;
 }
 
-.movie span {
+.locandine .desc span {
     font-size: 14px;
     font-family: 'Work Sans', sans-serif;
     font-weight: 300;
 }
 
-/* music grid */
+
+/* music gallery */
 
 .music {
     background-color: var(--bianco2);
 }
 
-.songs {
-    display: grid;
-    grid-template-rows: repeat(2, 1fr);
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px 20px;
-    grid-auto-flow: column;
+.songs-wrapper {
+    display: flex;
 }
 
-.song {
-    display: grid;
-    grid-template-rows: 3;
-    align-items: center;
-    justify-content: center;
+.song{
+    padding: 0 6px;
+    float: left;
+    width: 49.99999%;
 }
 
 .song img {
-    width: 100%;
+    width: 95%;
     object-fit: cover;
     border-radius: 50%;
     max-width: 300px;
 }
 
-.song a {
+.song .desc {
+    text-align: center;
+    padding-bottom: 10px;
+    margin-right: 20px;
+}
+
+.song .desc a {
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -406,11 +370,12 @@ section .subtitle {
     white-space: pre;
 }
 
-.song span {
+.song .desc span {
     font-size: 14px;
     font-family: 'Work Sans', sans-serif;
     font-weight: 300;
 }
+
 
 /* footer */
 

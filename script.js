@@ -24,7 +24,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["parolaio", "solista", "bambino", "narciso", "permaloso", "tafferuglio"],
+        strings: ["parolaio", "solista", "bambino", "narciso", "permaloso", "tafferuglio", "posapiano"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
