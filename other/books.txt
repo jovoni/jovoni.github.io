@@ -1,0 +1,45 @@
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/Il_conte_di_Montecristo">Il conte di Montecristo</a> <span>di Alexandre Dumas</span> </div> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Arancia_meccanica_(romanzo)">Arancia meccanica</a> <span>di Anthony Burgess</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/La_via_dei_re">La via dei re</a> <span>di Brandon Sanderson</span> </div>
+<div class="item"> <a href="https://en.wikipedia.org/wiki/The_Heart_Is_a_Lonely_Hunter">Il cuore è un cacciatore solitario</a> <span>di Carson McCullers</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/La_casa_in_collina">La casa in collina</a> <span>di Cesare Pavese</span> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/L%27arte_di_vivere_in_difesa">L'arte di vivere in difesa</a> <span>di Chad Harbach</span> </div> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Daniel_Mendelsohn#Opere_principali">Un'odissea. Un padre, un figlio e un poema epico</a> <span>di Daniel Mendelsohn</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Spillover._L%27evoluzione_delle_pandemie">Spillover. L'evoluzione delle pandemie</a> <span>di David Quammen</span> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/Dio_di_illusioni">Dio di illusioni</a> <span>di Donna Tartt</span> </div> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Noi,_i_ragazzi_dello_zoo_di_Berlino">Noi, I ragazzi dello zoo di Berlino</a> <span>di F. Christiane</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Delitto_e_castigo">Delitto e castigo</a> <span>di Fiodor Dostoevskij</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/La_fattoria_degli_animali">La fattoria degli animali</a> <span>di George Orwell</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Le_menzogne_della_notte">Le menzogne della notte</a> <span>di Gesualdo Bufalino</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Kafka_sulla_spiaggia">Kafka sulla spiaggia</a> <span>di Haruki Murakami</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Norwegian_Wood_(romanzo)">Norwegian wood</a> <span>di Haruki Murakami</span> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/Espiazione_(romanzo)">Espiazione</a> <span>di Ian McEwan</span> </div> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Ian_McEwan#Romanzi">Macchine come me</a> <span>di Ian McEwan</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Solanin">Solanin</a> <span>di Inio Asano</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Il_sentiero_dei_nidi_di_ragno">Il sentiero dei nidi di ragno</a> <span>di Italo Calvino</span> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/Il_giovane_Holden">Il giovane Holden</a> <span>di J.D.Salinger</span> </div> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/Il_Signore_degli_Anelli">Il signore degli anelli</a> <span>di J.R.R. Tolkien</span> </div> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Lo_Hobbit">Lo Hobbit</a> <span>di J.R.R. Tolkien</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Il_leopardo">Il leopardo </a> <span>di Jo Nesbo</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/L%27uomo_di_neve_(Nesb%C3%B8)">L'uomo di neve</a> <span>di Jo Nesbo</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/La_ragazza_senza_volto">La ragazza senza volto</a> <span>di Jo Nesbo</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Polizia_(Nesb%C3%B8)">Polizia</a> <span>di Jo Nesbo</span> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/La_valle_dell%27Eden_(romanzo)">La valle dell'Eden</a> <span>di John Steinbeck</span> </div> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Uomini_e_topi_(romanzo)">Uomini e topi</a> <span>di John Steinbeck</span> </div>
+<div class="item"> <a href="https://en.wikipedia.org/wiki/Augustus_(Williams_novel)">Augustus</a> <span>di John Williams</span> </div>
+<div class="item"> <div class="special"> <a href="https://en.wikipedia.org/wiki/Stoner_(novel)">Stoner</a> <span>di John Williams</span> </div> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Molto_forte,_incredibilmente_vicino">Molto forte, incredibilmente vicino</a> <span>di Jonathan Safran Foer</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Jonathan_Safran_Foer#Romanzi">Possiamo salvare il mondo, prima di cena</a> <span>di Jonathan Safran Foer</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Caino_(romanzo)">Caino</a> <span>di Josè Saramago</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Venuto_al_mondo">Venuto al mondo</a> <span>di Margaret Mazzantini</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/American_Gods">American Gods</a> <span>di Neil Gaiman</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Follia_(romanzo)">Follia</a> <span>di Patrick McGrath</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Pastorale_americana">Pastorale Americana</a> <span>di Philip Roth</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Roberto_Mercadini#Libri">Bomba atomica</a> <span>di Roberto Marcadini</span> </div>
+<div class="item"> <a href="https://en.wikipedia.org/wiki/Beautiful_World,_Where_Are_You">Beautiful world, where are you</a> <span>di Sally Rooney</span> </div>
+<div class="item"> <a href="https://en.wikipedia.org/wiki/Normal_People">Normal people</a> <span>di Sally Rooney</span> </div>
+<div class="item"> <a href="https://en.wikipedia.org/wiki/Conversations_with_Friends">Parlarne tra amici</a> <span>di Sally Rooney</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/La_chimera_(Sebastiano_Vassalli)">La Chimera</a> <span>di Sebastiano Vassalli</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Abbiamo_sempre_vissuto_nel_castello">Abbiamo sempre vissuto nel castello</a> <span>di Shirley Jackson</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/La_lunga_marcia_(romanzo)">La lunga marcia</a> <span>di Stephen King</span> </div>
+<div class="item"> <a href="https://it.wikipedia.org/wiki/Notre-Dame_de_Paris_(romanzo)">Notre Dame de Paris</a> <span>di Victor Hugo</span> </div>
