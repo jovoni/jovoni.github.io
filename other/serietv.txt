@@ -1,0 +1,4 @@
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/Rick_and_Morty">Rick & Morty</a> <span>di Jusin Roiland e Dan Harmon</span> </div> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/BoJack_Horseman">Bojack Horseman</a> <span>di Raphael Bob-Waksberg</span> </div> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/Peaky_Blinders">Peaky Blinders</a> <span>di Steven Knight</span> </div> </div>
+<div class="item"> <div class="special"> <a href="https://it.wikipedia.org/wiki/Strappare_lungo_i_bordi">Strappare lungo I bordi</a> <span>di Zerocalcare</span> </div> </div>

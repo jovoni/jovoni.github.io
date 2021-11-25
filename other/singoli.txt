@@ -39,3 +39,8 @@
 <div class="item"> <a href="https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7?si=3eedae763f11428b">fuck 3x</a> <span>di tha Supreme</span> </div>
 <div class="item"> <a href="https://open.spotify.com/track/1ktyKCzfI8hooCJP3X2yP5?si=95051e3120e642e5">Una direzione giusta</a> <span>di tha Supreme</span> </div>
 <div class="item"> <a href="https://open.spotify.com/track/6ZWsKJdmoYu1oFJbzCmtK9?si=36639ff904c24ce2">0ffline</a> <span>di tha Supreme</span> </div>
+<div class="item"> <a href="https://open.spotify.com/track/6NoJngD0cHC0WVBRfZlpb5?si=6cc3038faac84913">AIDTS</a> <span>di Pop X</span> </div>
+<div class="item"> <a href="https://open.spotify.com/track/1rkEAMhWydTKnhNKrxWLyL?si=c7c8aca97253401a">Liya Silver</a> <span>di Gionni Gioielli</span> </div>
+<div class="item"> <div class="special"> <a href="https://open.spotify.com/track/4Kjq89QBg5hZ4DB658HyWi?si=c8934e916f24445e">Mare caldo</a> <span>di Chiello</span> </div> </div>
+<div class="item"> <a href="https://open.spotify.com/track/3zb9a4NOpoSLuDZv6dmQzT?si=9a8caefc71504cbe">Un fiore per coltello</a> <span>di L’officina della camomilla</span> </div>
+<div class="item"> <a href="https://open.spotify.com/track/4zIDZLcm7EkydNvVvpU0lj?si=ac75ccfca64248c6">La canzone del pane</a> <span>di I Camillas</span> </div>
