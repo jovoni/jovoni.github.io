@@ -7,3 +7,4 @@
 <div class="item"> <a href="https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr?si=M76QFi8JRJSIoEz3JLPl-g">Madame</a> <span>di Madame</span> </div>
 <div class="item"> <a href="https://open.spotify.com/album/50ZFAeGxaNWSMjHfQOkzJK?si=_B9ZNs4YSrGcxm5KAKZPmw">Caravelle</a> <span>di Polo & Pan</span> </div>
 <div class="item"> <a href="https://open.spotify.com/album/3G0VzNCDRVSQxl3M0HaKwS?si=WIxDiu9iTC-PkHkLmN8Ahg">Enter Sandwich</a> <span>di Pop X</span> </div>
+<div class="item"> <a href="https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9?si=8bLvTD42RwqHulNp8HxQeA">Disumano</a> <span>di Fedez</span> </div>
