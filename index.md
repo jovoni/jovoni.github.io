@@ -4,20 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, I'm Giovanni.
+I am a Ph.D student at the University of Trieste and I work in the Cancer Data Science Laboratory ([CDSlab](https://www.caravagnalab.org)), under the co-supervision of [Giulio Caravagna](https://scholar.google.com/citations?user=iktXWosAAAAJ&hl=it&oi=ao) and [Leonardo Egidi](https://scholar.google.com/citations?hl=it&user=Ux1LY_Qx7T8C).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Canver evolution**
+- **Bayesian modelling**
+- **Probabilsitic machine learning**
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
